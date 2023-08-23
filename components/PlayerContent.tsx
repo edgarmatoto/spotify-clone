@@ -1,5 +1,6 @@
 'use client'
 
+// @ts-ignore
 import useSound from "use-sound";
 import { Song } from "@/types"
 import MediaItem from "./MediaItem";
